@@ -18,7 +18,7 @@ img{align-items: center;
 .intro {font-style: italic;
         color: black;
         font-weight: bold;
-        float: inline-start;
+        float: right;
 }
 .img{
     align-self: left;
