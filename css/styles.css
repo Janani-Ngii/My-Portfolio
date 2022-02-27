@@ -21,8 +21,7 @@ img{align-items: center;
         float: right;
 }
 .img{
-    align-self: left;
-    <img style="float: left" src= "Images/FB_IMG_1643842552158.jpg" alt="An image of Janani">
+    align-content: flex-end;    
 }
 h5{font-size: larger;
 font-family: sans-serif;
