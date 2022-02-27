@@ -21,11 +21,20 @@ img{align-items: center;
 }
 .img{
     align-self: left;
+    <img style="float: left" src= "Images/FB_IMG_1643842552158.jpg" alt="An image of Janani">
 }
 h5{font-size: larger;
 font-family: sans-serif;
 font-weight: 200;}
 .section {background-color: azure;
+    border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
 }
 .line1 {color: brown;}
 .important {
@@ -39,4 +48,11 @@ font-weight: 200;}
   .list{
       font-weight: bold;
       }
+      .img{
+          border-left: 2px solid red;
+        border-right: 4px solid blue;
+        border-top: 6px solid orange;
+        border-bottom: 8px solid black;
+    }
+   
   
