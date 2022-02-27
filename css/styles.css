@@ -26,15 +26,15 @@ img{align-items: center;
 h5{font-size: larger;
 font-family: sans-serif;
 font-weight: 200;}
-.section {background-color: azure;
-    border-left: 2px solid red;
-  border-right: 4px solid blue;
-  border-top: 6px solid orange;
+.section {background-color: rgba(240, 255, 255, 0.26);
+    border-left: 2px solid rgb(15, 12, 12);
+  border-right: 4px solid goldenrod;
+  border-top: 6px solid red;
   border-bottom: 8px solid black;
   border: 2px solid red;
   padding: 6px;
-  margin: 20px;
-  background-color: yellow;
+  margin: 30px;
+  background-color: white;
 }
 .line1 {color: brown;}
 .important {
